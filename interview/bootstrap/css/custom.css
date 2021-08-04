@@ -1,0 +1,28 @@
+body{
+    background-color:rgb(197, 193, 193) ;
+}
+.container{
+    height: 300px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.row{
+    box-shadow: rgb(98, 95, 95) 3px 3px 20px;
+}
+.left{
+    padding: 0;
+}
+.right{
+    background-color: white;
+    padding: 30px;
+    padding-top: 100px;
+}
+.right button{
+    margin-top: 100px;
+    padding: 15px;
+    width:300px;
+    box-shadow: black 3px 3px 10px;
+}
+.btn{
+    border-radius: 50;
+}
